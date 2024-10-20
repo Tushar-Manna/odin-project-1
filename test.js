@@ -115,3 +115,4 @@ console.log(bestBook.info());
 console.log(Object.getPrototypeOf(Player.prototype) === Object.prototype);
 
 //test
+//test2
